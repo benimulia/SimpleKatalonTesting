@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji login dengan dian dan kopi</description>
+   <name>Tes Login Dian dan Kopi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e903a8f7-64b8-48a7-b7ff-8f9b9d415dc0</testCaseGuid>
+</TestCaseEntity>

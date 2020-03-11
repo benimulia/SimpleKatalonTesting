@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ideal untuk menyimpan produk</description>
+   <name>Tambah Product Benar</name>
+   <tag>Create</tag>
+   <comment></comment>
+   <testCaseGuid>e68ecb71-b07c-45a3-9b35-8cc9a1792103</testCaseGuid>
+</TestCaseEntity>

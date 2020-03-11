@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ideal untuk menyimpan produk</description>
+   <name>Tambah Product Photo JPG Kurang 2MB</name>
+   <tag>Create</tag>
+   <comment></comment>
+   <testCaseGuid>f4c3a6f7-3922-43cb-b5e9-b54a2ee87949</testCaseGuid>
+</TestCaseEntity>

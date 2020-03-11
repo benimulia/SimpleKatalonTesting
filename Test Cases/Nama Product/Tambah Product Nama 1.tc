@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case untuk menyimpan produk dengan panjang karakter 1</description>
+   <name>Tambah Product Nama 1</name>
+   <tag>Create, Benar</tag>
+   <comment></comment>
+   <testCaseGuid>60fb4d88-394a-43da-b28f-a12d927f4005</testCaseGuid>
+</TestCaseEntity>
