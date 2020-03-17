@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigasi pake wait for element click</description>
+   <name>Navigasi www.awwwards.com</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff331d3-9d0a-42ad-a555-5965d9a37ce0</testCaseGuid>
+</TestCaseEntity>
