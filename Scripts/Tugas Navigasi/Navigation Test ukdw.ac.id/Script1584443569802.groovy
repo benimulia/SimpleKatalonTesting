@@ -34,5 +34,9 @@ WebUI.click(findTestObject('Object Repository/Page_UKDW  A New Breed of Professi
 
 WebUI.click(findTestObject('Page_Pendaftaran Online  UKDW/a_pmbukdwacid'))
 
+halaman_tujuan = WebUI.getUrl()
+
+WebUI.verifyMatch(halaman_tujuan, 'https://pmb.ukdw.ac.id/', false)
+
 WebUI.closeBrowser()
 

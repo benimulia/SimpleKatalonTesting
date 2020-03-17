@@ -27,5 +27,9 @@ WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Awwwards - 
 
 WebUI.click(findTestObject('Object Repository/Page_Awwwards - Website Awards - Best Web D_c22321/a_Winners'))
 
+halaman_tujuan = WebUI.getUrl()
+
+WebUI.verifyMatch(halaman_tujuan, 'https://www.awwwards.com/websites/', false)
+
 WebUI.closeBrowser()
 

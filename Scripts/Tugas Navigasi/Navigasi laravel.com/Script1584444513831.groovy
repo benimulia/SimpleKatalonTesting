@@ -27,5 +27,9 @@ WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Laravel - T
 
 WebUI.click(findTestObject('Object Repository/Page_Laravel - The PHP Framework For Web Artisans/span_Webpack Asset Compilation'))
 
+halaman_tujuan = WebUI.getUrl()
+
+WebUI.verifyMatch(halaman_tujuan, 'https://laravel.com/docs/7.x/mix', false)
+
 WebUI.closeBrowser()
 

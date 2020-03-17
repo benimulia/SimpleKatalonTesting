@@ -32,5 +32,9 @@ WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Butterfly -
 
 WebUI.click(findTestObject('Object Repository/Page_Butterfly - creative digital strategy _3c2ef2/a_About Butterfly'))
 
+halaman_tujuan = WebUI.getUrl()
+
+WebUI.verifyMatch(halaman_tujuan, 'https://www.butterfly.com.au/about-butterfly', false)
+
 WebUI.closeBrowser()
 

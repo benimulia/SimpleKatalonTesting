@@ -27,5 +27,9 @@ WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Mockplus - 
 
 WebUI.click(findTestObject('Object Repository/Page_Mockplus - Design Prototype  Collabora_47637f/h3_Mockplus RP'))
 
+halaman_tujuan = WebUI.getUrl()
+
+WebUI.verifyMatch(halaman_tujuan, 'https://www.mockplus.com/mockplus-rp', false)
+
 WebUI.closeBrowser()
 
